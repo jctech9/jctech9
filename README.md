@@ -1,8 +1,8 @@
 <div align="center">
 
 <h1>Jones Cabral</h1>
-<h3>Desenvolvedor Full Stack</h3>
-<p>Java · Spring Boot · Vue.js · TypeScript · Python</p>
+<h3>Desenvolvedor Full Stack · Python e Automação</h3>
+<p>Java · Spring Boot · Vue.js · TypeScript · Python · GitHub Actions</p>
 <p>Quixadá, Ceará, Brasil</p>
 <p>
   <a href="https://jctech9.github.io/"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-Acessar-181717?style=for-the-badge&logo=githubpages&logoColor=white"></a>
@@ -14,13 +14,15 @@
 
 ## Sobre mim
 
-Sou estudante de Sistemas de Informação na Universidade Federal do Ceará (UFC) e desenvolvedor Full Stack com experiência prática na construção de sistemas web.
+Sou estudante de Sistemas de Informação na Universidade Federal do Ceará (UFC) e desenvolvedor Full Stack com experiência prática na construção de sistemas web. **Automação é minha segunda área de atuação**, especialmente com Python e GitHub Actions.
 
-Atuo principalmente com **Java, Spring Boot, Vue.js e TypeScript**, do desenvolvimento de APIs e modelagem de dados à criação de interfaces e relatórios. Também construo projetos com **Python, GitHub Actions, Linux e redes**, combinando desenvolvimento de software com automação e infraestrutura.
+No desenvolvimento Full Stack, atuo principalmente com **Java, Spring Boot, Vue.js e TypeScript**, da criação de APIs e modelagem de dados às interfaces e relatórios. Em automação, desenvolvo **tarefas agendadas, integrações com APIs HTTP, alertas pelo Telegram e monitoramento de serviços**, com testes, retries, timeouts e controle de estado.
 
-Busco oportunidades para contribuir com produtos web confiáveis, código bem testado e soluções que resolvam problemas reais.
+Busco oportunidades em **desenvolvimento Full Stack e automação**, mantendo Linux, redes e infraestrutura como diferenciais técnicos.
 
 ## Projetos em destaque
+
+Os projetos abaixo representam meus dois principais eixos de atuação: desenvolvimento Full Stack e automação.
 
 | Projeto | O que demonstra | Tecnologias principais |
 | --- | --- | --- |
@@ -68,6 +70,6 @@ Busco oportunidades para contribuir com produtos web confiáveis, código bem te
 
 ## Contato
 
-Estou aberto a conversar sobre oportunidades em desenvolvimento Full Stack, aplicações web, automação e infraestrutura.
+Estou aberto a oportunidades em desenvolvimento Full Stack e automação, além de projetos nos quais Linux, redes e infraestrutura agreguem valor.
 
 [Portfólio](https://jctech9.github.io/) · [LinkedIn](https://www.linkedin.com/in/jones-cabral-00954030a) · [E-mail](mailto:jonescabral.tech@gmail.com)
