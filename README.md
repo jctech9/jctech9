@@ -109,7 +109,7 @@ Coleção de roteiros e configurações práticas para um laboratório com Raspb
 ## Formação
 
 - **Bacharelado em Sistemas de Informação — Universidade Federal do Ceará:** em andamento, com conclusão prevista para junho de 2027.
-- **Técnico em Informática — UNIGRANDE:** concluído em 2019.
+- **Técnico em Informática — UNIGRANDE:**
 
 ## Idiomas
 
