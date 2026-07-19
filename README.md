@@ -36,6 +36,16 @@ Também desenvolvo projetos pessoais com Python, GitHub Actions, APIs HTTP, Fire
 
 ## Projetos em destaque
 
+### NetPulse Monitor
+
+Monitor de disponibilidade de serviços com painel público de status atualizado automaticamente. Verifica HTTP, conteúdo, APIs JSON, TCP, DNS e certificados TLS, mantendo histórico de disponibilidade e incidentes sem banco de dados externo.
+
+**Tecnologias:** Python, Vue 3, TypeScript, Chart.js, GitHub Actions, GitHub Pages e Telegram Bot API.
+
+**Resultado técnico:** monitoramento serverless com alertas opcionais de queda e recuperação pelo Telegram e publicação de dados sanitizados em um painel responsivo.
+
+[Ver repositório](https://github.com/jctech9/netpulse-monitor) · [Acessar demonstração](https://jctech9.github.io/netpulse-monitor/)
+
 ### Projeto Exemplo JSON para XLSX
 
 Projeto de exemplo em Spring Boot que consulta uma API HTTP e transforma dados JSON em planilhas XLSX com Apache POI. A integração valida o destino da API e aplica proteções contra SSRF, incluindo allowlist, bloqueio de endereços não públicos e redirecionamentos desativados.
